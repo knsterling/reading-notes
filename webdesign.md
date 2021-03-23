@@ -1,3 +1,6 @@
+**Design Web Pages with CSS**
+*Process and Design*
+
 While reading chapter 18 of Duckett: HTML & CSS I learned that websites want to target certain demographics and specific elements really matter, e.g.:
 age, workplace, residence, weekly web use.  
 Gathering specific and detailed informaiton about thier site users give the owners ideas on how to cater to them and they gain inspiration on how to make the website grow.  
