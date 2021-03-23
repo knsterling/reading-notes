@@ -9,5 +9,5 @@
   your mind is **valuable**, too.
 
 MY name is Kafele Sterling and here's the link to my github page:
-https://github.com/knsterling/
+https://knsterling.github.io/reading-notes/
 
