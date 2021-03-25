@@ -2,7 +2,7 @@ A *variable* is a feature that's automatically rendered or you can create one to
 
 Websites are composed of three typical layers:
 Content (**HTML**)- The script
-Presentatin (**CSS**)- The look
+Presentation (**CSS**)- The look
 Behavior (**JavaScript**)- The action
 
 A *string* is a series of words (a sentence, if you will) and to complete a string you must us single quotes('')
