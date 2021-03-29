@@ -14,5 +14,5 @@ Returning information- function calculateArea(width, height){
 var area = width * height;
 return are;}
 
-
+MY name is Kafele Sterling and here's the link to my github page: https://knsterling.github.io/reading-notes/
 
