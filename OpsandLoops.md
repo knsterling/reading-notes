@@ -4,6 +4,7 @@ Comparison operators is how software and websites automatically figure out what 
 Loops check a condition. Its job is to return true statements over and over again until it hits a false statement. Two examples are:
 
 *FOR* loop
+
 function howMany(selectObject) {
   let numberSelected = 0;
   for (let i = 0; i < selectObject.options.length; i++) {
@@ -15,6 +16,7 @@ function howMany(selectObject) {
 }
 
 *WHILE* loop
+
 let n = 0;
 let x = 0;
 while (n < 3) {
