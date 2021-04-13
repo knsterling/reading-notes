@@ -23,14 +23,4 @@ Positioning, and Floating Elements which within it has its own sub-elements. The
  royal gardens faster...</p>
 </body>
 
-#####CSS#####
-body {
-width: 750px;
-font-family: Arial, Verdana, sans-serif;
-color: #665544;}
-h1 {
-background-color: #efefef;
-padding: 10px;}
-p {
-width: 450px;}
 
