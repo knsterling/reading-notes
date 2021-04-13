@@ -1,5 +1,5 @@
-Links are created by using the anchor tag element <a>  </a>.
-                                        *(open)(close)* 
+Links are created by using the anchor tag element <a>   </a>.
+                                                *(open)(close)* 
                                     
 Inside the open tag is where you enter the attribute called **href** (hypertext reference).         
 Between the open and closing tags is the link text you want your user to click on to be directed to the actual link.
