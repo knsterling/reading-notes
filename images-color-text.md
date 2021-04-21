@@ -23,3 +23,5 @@
 # Text #
 -To choose a typeface (or font style) it must be downloaded to the computer of your browser, but some typefaces are copywritten, so the
  techniques you can choose from are limited by their respective licenses.
+ 
+- Specity the typefaces with the font-family property in HTML and the typeface font sizes in CSS. 
