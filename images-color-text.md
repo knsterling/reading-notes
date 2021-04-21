@@ -25,3 +25,5 @@
  techniques you can choose from are limited by their respective licenses.
  
 - Specity the typefaces with the font-family property in HTML and the typeface font sizes in CSS. 
+
+MY name is Kafele Sterling and here's the link to my github page: https://knsterling.github.io/reading-notes/
