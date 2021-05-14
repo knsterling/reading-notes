@@ -23,4 +23,4 @@ When building codes anticipate that there might be failure so include the Except
 Error can occur even after you have a code figured out.
 
 
-
+MY name is Kafele Sterling and here's the link to my github page: https://github.com/knsterling/reading-notes/edit/main/debugging.md
