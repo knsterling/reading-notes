@@ -21,3 +21,13 @@ npm install -g jshint
 
 **What is node used for?**
 To create a sensible development environment.
+
+**What are the 6 reasons for pair programming?**
+Greater efficiency, Engaged collaboration, Learning from fellow students, Social skills, Job interview readiness, and Work environment readiness.
+
+**In your experience, which of these reasons have you found most beneficial?**
+Engaged collaboration and learning from fellow students.
+
+**How does pair programming work?**
+developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves. Paired programming teaches you how to complete assignments, learn then communicate in interviews and creates eadiness for a job at a company that utilizes this agile practice.
+
