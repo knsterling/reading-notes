@@ -23,17 +23,17 @@ const ourArray = [...myArray,...yourArray]
 console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩
 
 **Give an example of using the spread operator to add a new item to an array.**
-<!-- const fewFruit = ['🍏','🍊','🍌']
+const fewFruit = ['🍏','🍊','🍌']
 const fewMoreFruit = ['🍉', '🍍', ...fewFruit]
-console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ] -->
+console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]
 
 **Give an example of using the spread operator to combine two objects into one.**
-<!-- const objectOne = {hello: "🤪"}
+const objectOne = {hello: "🤪"}
 const objectTwo = {world: "🐻"}
 const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}
-console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }
+console.log(objectThree) { hello: "🤪", world: "🐻", laugh: "😂" }
 const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
-objectFour.laugh() // 😂😂😂😂😂 -->
+objectFour.laugh()  
 
 **In your own words, what does the increment function do?**
 the increment operator increments and returns the value before incrementing.
