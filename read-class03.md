@@ -17,10 +17,10 @@ A syntax for adding items to arrays, combining arrays or objects, and spreading 
 Copying an array, Concatenating or combining arrays, Using Math functions, and Using an array as arguments.
 
 **Give an example of using the spread operator to combine two arrays.**
-<!-- const myArray = [`🤪`,`🐻`,`🎌`]
+const myArray = [`🤪`,`🐻`,`🎌`]
 const yourArray = [`🙂`,`🤗`,`🤩`]
 const ourArray = [...myArray,...yourArray]
-console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩 -->
+console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩
 
 **Give an example of using the spread operator to add a new item to an array.**
 <!-- const fewFruit = ['🍏','🍊','🍌']
